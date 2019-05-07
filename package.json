@@ -1,7 +1,7 @@
 {
   "name": "exarray",
   "version": "1.0.0",
-  "description": "Extend string operation",
+  "description": "Extend string operation.",
   "main": "./dist/exarray.js",
   "es": "./dist/exarray.es.js",
   "umd": "./dist/exarray.umd.js",
